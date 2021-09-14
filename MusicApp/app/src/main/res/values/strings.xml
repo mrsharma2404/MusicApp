@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="favourite">fav</string>
+    <string name="songs">Songs</string>
+    <string name="playlist" size="10px">Playlist</string>
+    <string name="Artist">Artist</string>
+    <string name="Album">Album</string>
+
+</resources>
